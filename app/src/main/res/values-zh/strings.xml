@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TVBox</string>
+    <string name="app_name">XBox</string>
     <string name="app_home">首页</string>
-    <string name="app_source">https://chengxue2020.github.io/Cat-ports/main.json</string>
+    <string name="app_source">https://jihulab.com/z-blog/xh2/-/raw/main/t3.json</string>
 
     // Home Page //
     <string name="hm_ok">加载成功</string>
@@ -104,7 +104,7 @@
     <string name="set_bkup_fail">备份失败!</string>
     <string name="set_bkup_fail_hk">备份Hawk失败!</string>
     <string name="set_bkup_fail_db">DB文件不存在!</string>
-    <string name="set_rest_ok">恢复成功,请重启应用!</string>
+    <string name="set_rest_ok">恢复成功,即将自动重启应用!</string>
     <string name="set_rest_fail_hk">Hawk恢复失败!</string>
     <string name="set_rest_fail_db">DB文件恢复失败!</string>
     <string name="set_permission_ok">已获得存储权限</string>

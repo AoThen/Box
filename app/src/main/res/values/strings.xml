@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TVBox</string>
+    <string name="app_name">XBox</string>
     <string name="app_home">Home</string>
-    <string name="app_source"></string>
+    <string name="app_source">https://jihulab.com/z-blog/xh2/-/raw/main/t3.json</string>
 
     // Home Page //
     <string name="hm_ok">Load Complete</string>
@@ -105,7 +105,7 @@
     <string name="set_bkup_fail">Backup Fail</string>
     <string name="set_bkup_fail_hk">Backup Fail (Hawk)</string>
     <string name="set_bkup_fail_db">Backup Fail (DB)</string>
-    <string name="set_rest_ok">Restore Success, please Restart</string>
+    <string name="set_rest_ok">Restore Success, Automatic Restart</string>
     <string name="set_rest_fail_hk">Restore Fail (Hawk)</string>
     <string name="set_rest_fail_db">Restore Fail (DB)</string>
     <string name="set_permission_ok">Write Permission Granted</string>
